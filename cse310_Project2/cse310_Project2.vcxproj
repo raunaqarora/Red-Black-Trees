@@ -110,6 +110,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Athlete.h" />
+    <ClInclude Include="RedBlack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Athlete.cpp" />
+    <ClCompile Include="Project1P2.cpp" />
+    <ClCompile Include="RedBlack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
